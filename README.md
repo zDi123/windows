@@ -1,4 +1,4 @@
-# welcome
+# Welcome everyone to download and use
 SecureCRT的下载、安装（ 过程非常详细！！值得查看）
 简单介绍下SecureCRT
 一、SecureCRT的下载
