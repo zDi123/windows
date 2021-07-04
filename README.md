@@ -18,10 +18,9 @@ https://www.vandyke.com/cgi-bin/releases.php?product=securecrt
 
 下载链接
 提取码：40xe
-
+https://pan.baidu.com/s/1pfn1muyRq6DPQiYNitQqqA
 1. 下载完成后将压缩包解压缩到自己电脑的想要压缩的安装目录下。
-
-
+https://cdnjsdelivr.net/gh/zDi123/picture/image20190902114223322.png
 2. 进入解压完成的文件夹中，找到 scrt_sfx833-x64.exe 安装程序，双击文件进行安装
 
 接下来就进入了安装的环节：
