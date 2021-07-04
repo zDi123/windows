@@ -1,0 +1,3 @@
+注册软件时，如果提示系统缺少mfc100u.dll，则把该文件复制到如下路径：
+32位系统：C:\WINNT\System32
+64位系统：C:\Windows\SysWOW64
