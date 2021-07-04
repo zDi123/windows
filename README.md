@@ -6,7 +6,7 @@ SecureCRT的下载、安装（ 过程非常详细！！值得查看）
 三、SecureCRT的使用
 简单介绍下SecureCRT
 SecureCRT是一款支持SSH（SSH1和SSH2）的终端仿真程序，简单地说是Windows下登录UNIX或Linux服务器主机的软件。SecureCRT支持SSH，同时支持Telnet和rlogin协议。SecureCRT的SSH协议支持DES,3DES和RC4密码和密码与RSA鉴别。在今后的工作和学习中会经常的用到用来连接linux服务器。
-
+![](https://cdn.jsdelivr.net/gh/zDi123/picture/imageQQ%E6%88%AA%E5%9B%BE20210704145037.png)
 一、SecureCRT的下载
 SecureCRT下载需要到官网去下载，下载地址如下：
 
